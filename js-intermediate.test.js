@@ -11,6 +11,10 @@ describe("multTwo", () => {
     })
 })
 
+const multTwo = (array) => {
+      return array.map(v => v*2 )
+}
+
 
 // 2. Write the code that would make this test pass.
 
@@ -24,3 +28,8 @@ describe("greeter", () => {
     expect(greeter(person3)).toEqual("Hello, Pop!")
   })
 })
+
+
+const greeter = (person) => {
+      return `Hello, ${person}!`
+}

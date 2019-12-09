@@ -135,7 +135,7 @@ class Sphere {
 				this.diameter = diameter;
 				this.radius = diameter / 2;
 				this.π = Math.PI;
-				this.area = (4 * this.π * this.radius) ** 2;
+				this.area = 4 * this.π * (this.radius ** 2);
 			}
 }
 

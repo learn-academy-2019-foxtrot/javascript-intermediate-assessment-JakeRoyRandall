@@ -18,7 +18,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. Why would you use object destructuring?
 
-  Your answer: 
+  Your answer:
     Anytime you need to call a property of an object multiple times it's a good idea to restructure to ensure you can be maximally lazy
 
   Researched answer:
@@ -165,6 +165,8 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
     front end development generally entails coding visuals and functionality that will be seen/ used by an end user.
+
+    Skills: HTML/ CSS/ JAVASCRIPT -> Swift -> Objective C -> +++++
 
   Researched answer:
 
